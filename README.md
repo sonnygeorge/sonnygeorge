@@ -1,4 +1,6 @@
-## Hi there 👋
+Hello, I'm Sonny 👋
+
+To learn more about me, please visit my [personal site](https://sonnygeorge.github.io/).
 
 <!--
 **sonnygeorge/sonnygeorge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
